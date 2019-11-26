@@ -10,6 +10,6 @@ namespace GUISecondway.ModelView
 {
     public class AddCommand 
     {
-        
+         
     }
 }
